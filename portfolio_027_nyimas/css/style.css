@@ -1,0 +1,52 @@
+/* body {
+    background-image: url(../Image/walpaper.jpg); 
+    background_size: 20px;
+} */
+sections {
+    background-image: url(../Image/wallpaper\ 2.jpg);
+
+}
+
+#About{
+    background-image: url(../Image/walpaper.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+  }
+
+#education{
+    background-image: url(../Image/education.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 10%;
+  }
+#award{
+    /* background-image: url(../Image/award.jpg); */
+    /* background-size: cover; */
+    /* height: 100%;
+    width: 75%;
+    padding: 10%;
+    ; */
+
+}
+.fontClass{
+    font-size:20px;
+    font-weight:bolder;
+    font-style:italic;
+    text-decoration: underline;
+}
+.dataClass{
+    width: 50%;
+    margin:auto;
+}
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    color: blue !important;
+
+}
+#more {
+    display: none;
+}
